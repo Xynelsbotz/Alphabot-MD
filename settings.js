@@ -15,7 +15,7 @@ global.APIKeys = {
 // setting 
 global.autoread = false // auto read message
 global.autobio = true 
-global.userRegister = true
+global.userRegister = false 
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
@@ -34,7 +34,7 @@ global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
+global.premium = ['6285854337533'] //premium user
 global.owner = ["6285854337533","622150996855"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6285854337533" // nomor wa kalian
 global.ownernomerr = "+6285854337533" //nmr wa kalian
