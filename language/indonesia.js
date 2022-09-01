@@ -24,7 +24,7 @@ exports.profile = (username, m, about, pasangan, PhoneNumber, exp, min, xp, math
 
 //
 exports.needReg = (a, b, c) =>{
-	return`🇲🇨 Daftar dulu bang
+	return`🇮🇩 Daftar dulu bang
 
 Gini : #daftar nama|umur|gender|hobi
 Contoh : #daftar ${a}|18|cowo|Game
@@ -1720,6 +1720,14 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 │○ ZeeoneOfc
 │○ Penyedia Module
 ╰❒ And All Support
+
+Follow Us :
+Instagram : instagram.com/xynels.design
+Github : github.com/Xynelsbotz
+Youtube : (in button)
+
+”no result without effort”
+Author : xynelsdesign
     `
 }
 
@@ -1730,6 +1738,9 @@ exports.rules = (prefix) => {
 1. Jangan spam bot. 🙅
 2. Jangan telepon bot. ☎️
 3. Jangan membandingkan bot 👍
+4. Jangan kirim virtex (Virus text) 🦠
+5. jangan kirim bug chat 🧑‍💻
+6. Izin sebelum ambil SC (source code) 🙏
 
 🗯️ Bot tidak atau lambat merespon ?
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
@@ -1760,14 +1771,14 @@ exports.welcome = () =>{
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Yah kok out 😣 Yateam lu >.<
 Goodbye`
 }
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Recode : (Chat Owner)
 `
 }
 exports.tos = (ownernomer) => {
@@ -1778,6 +1789,7 @@ Hai kak ☺️
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 
 Berapapun donasi kalian akan sangat berarti 👍
+Bisa juga donasi lewat follow Instagram, hehe 😄
 Buat kalian yang sudah donasi bisa kirim bukti
 donasi ke owner agar bisa di masukkan ke list donasi
 
