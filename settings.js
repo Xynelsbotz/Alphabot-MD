@@ -26,12 +26,12 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Lucia-Botz" //namabot kalian
-global.ownername= "Xynels" //nama kalian
-global.myweb = "https://xynelsdesign.carrd.co" //bebas asal jan hapus
+global.botname = "Valenchia" //namabot kalian
+global.ownername= "Xynelscc" //nama kalian
+global.myweb = "https://xynelsdsg.carrd.co/" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCHEHOIHj-7z9K3QTapYdNpg" //bebas asal jan hapus
-global.myweb2 = "https://xynelsdesign.dorik.io/" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.myweb2 = "https://xynels.carrd.co/" //bebas
+global.email = "xynels@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285854337533'] //premium user
@@ -42,8 +42,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome= "https://telegra.ph/file/b3f39cfdb5c5a3a6d7891.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Lucia-Botz' //sticker wm ubah
-global.author = 'Di Buat Oleh Xynels' //sticker wm ganti nama kalian
+global.packname = '© Valenchia-Bot' //sticker wm ubah
+global.author = 'Di Buat Oleh Xynelscc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
